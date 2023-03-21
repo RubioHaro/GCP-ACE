@@ -2,7 +2,7 @@
 
 Las siguientes preguntas de ejemplo le ayudarán a familiarizarse con el formato de las preguntas del examen y con el contenido que pudiera cubrir el examen.
 
-
+<!-- A,B,C,D Options -->
 <style type="text/css">
     ol { list-style-type: upper-alpha; }
 </style>
